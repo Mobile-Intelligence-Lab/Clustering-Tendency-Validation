@@ -82,6 +82,7 @@ This will compute the PSI score for the clustering results, as well as different
   year={2024},
   volume={36},
   number={4},
-  pages={1489-1501}
+  pages={1489-1501},
+  doi={10.1109/TKDE.2023.3306024}
 }
 </code></pre>
